@@ -63,11 +63,11 @@ The system was tested using the following cases:
 7. How to Compile and Run the Program
 Compile and run the code use the below commands on cmd or visual studio code terminal:
 
-To compile in VS code use:
+To compile in VS code use this command:
 g++ -std=c++11 -Isrc -o library_system.exe main.cpp src/*.cpp
 (after downloading MSYS2 x86_64-20251213.exe - this is a C/C++ compiler for vs code)
 
-To run use:
+To run use this command:
 .\library_system.exe
 
 login for admin is:
