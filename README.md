@@ -66,5 +66,13 @@ To compile use:
 g++ -std=c++11 -Isrc -o library_system.exe main.cpp src/*.cpp
 To run use:
 .\library_system.exe
-8. Conclusion
+login for admin is:
+username:admin
+password:admin123
+
+login for user(sample):
+username: mwangi
+password:password123
+
+9. Conclusion
 The Online Library Management System  demonstrates the implementation of Object-Oriented Programming concepts in C++. The addition of a login module improves system security by restricting access to authorized users. The system provides a simple and effective way of managing library operations while reinforcing OOP design principles.
