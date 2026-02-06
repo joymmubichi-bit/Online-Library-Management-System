@@ -24,7 +24,7 @@ Attributes
 Book ISBN
 Title
 Author
-Year of Publishe
+Year of Publish
 Availability status
 Functions
 Display book information
