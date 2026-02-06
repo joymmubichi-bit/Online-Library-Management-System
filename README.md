@@ -62,8 +62,10 @@ The system was tested using the following cases:
 •	Removing a book from the system.
 7. How to Compile and Run the Program
 Compile and run the code use the below commands on cmd or visual studio code terminal:
+
 To compile use:
 g++ -std=c++11 -Isrc -o library_system.exe main.cpp src/*.cpp
+
 To run use:
 .\library_system.exe
 
