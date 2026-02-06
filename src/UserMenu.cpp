@@ -135,4 +135,5 @@ void UserMenu::handleReturnBook()
 void UserMenu::handleViewProfile()
 {
     library.displayUserInfo(userId);
+
 }
